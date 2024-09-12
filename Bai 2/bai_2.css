@@ -1,0 +1,28 @@
+#container{
+    padding: 0 15px;
+}
+#product_name, #product_price, #product_quantity, #button{
+    margin-top: 10px;
+}
+#in_name{
+    margin-left: 22px;
+}
+#in_qty{
+    margin-left: 5px;
+}
+#in_pr{
+    margin-left: 26px;
+}
+#tb{
+    margin-top: 20px;
+    width: 600px;
+    /* border-spacing: 0; xóa khoảng cách giữa các ô với nhau*/
+    border: 1px solid #bbb;
+}
+#tb tr{
+    height: 25px;
+}
+#tb tr th, #tb tr td{
+    text-align: left;
+    border: 1px solid #ccc;
+}
