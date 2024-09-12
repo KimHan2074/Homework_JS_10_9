@@ -24,3 +24,4 @@ function sub_total(){
 //     totalRow += "</tr>";
 //     document.getElementById("tb").innerHTML += totalRow;
 // }
+// á
